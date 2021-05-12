@@ -1,1 +1,0 @@
-(self["webpackChunktest_app"]=self["webpackChunktest_app"]||[]).push([[174],{7174:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>r});var n=s(3673);function u(e,t,s,u,p,r){return(0,n.wg)(),(0,n.j4)("h3",null,"Testy 2")}const p={};p.render=u;const r=p}}]);
